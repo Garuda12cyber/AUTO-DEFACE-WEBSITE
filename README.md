@@ -46,6 +46,8 @@ disin juga masukin website vuln untuk target
 
 ![image](https://user-images.githubusercontent.com/88545901/129565436-3e9447f3-50c6-48cb-a082-5f8c5c2ea1c5.png)
 
-![yotube](https://youtube.com/channel/UC5qaTtGpIDZABVOSKwKcYtQ)
+Jika kalian bingung kalian bisa lihat contohnya di YouTube saya
+
+https://youtube.com/channel/UC5qaTtGpIDZABVOSKwKcYtQ
 
 Please subscribe my chenel
