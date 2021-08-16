@@ -43,6 +43,7 @@ banner = """
 Author : Garuda12cyber
 github : https://github.com/Garuda12cyber
 youtbe : Garuda12cyber
+Jangan lupa subscribe ya bro
 """
 
 b = '\033[31m'
