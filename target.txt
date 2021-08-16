@@ -1,3 +1,9 @@
-http://your-target1.com
-http://your-target2.com
-http://your-target2.com
+https://your-target1.com
+https://your-target2.com
+https://your-target3.com
+https://your-target4.com
+https://your-target5.com
+https://your-target6.com
+https://your-target7.com
+https://your-target8.com
+https://your-target9.com
