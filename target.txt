@@ -1,3 +1,3 @@
-http://target-kamu1.com
-http://target-kamu2.com
-http://target-kamu3.com
+http://your-target1.com
+http://your-target2.com
+http://your-target2.com
