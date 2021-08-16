@@ -20,11 +20,9 @@ banner = """
          \ V  V /  __/ |_) \__ \ | ||  __/
           \_/\_/ \___|_.__/|___/_|\__\___|
 
-
 Author: Garuda12cyber
 github: https://github.com/Garuda12cyber
 Youtube: Garuda12cyber
-
 """
 
 b = '\033[31m'
